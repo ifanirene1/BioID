@@ -8,6 +8,7 @@
   - [Results](#results)
     - [Proteomic data analysis and visualization](#proteomic-data-analysis-and-visualization)
     - [ChIP-seq data analysis](#chIP-seq-data-analysis)
+    - [Fluidigm high-througput qPCR analysis](#fluidigm-high-througput-qPCR-analysis)
     - [Cell migration assays](#cell-migration-assays)
 
 ## Introduction
