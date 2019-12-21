@@ -6,10 +6,7 @@
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Results](#results)
-    - [Proteomic data analysis and visualization](#Proteomic data analysis and visualization)
-    - [ChIP-seq data analysis](#ChIP-seq data analysis)
-    - [Cell migration assays](#Cell migration assays)
-    - [Proteomic data analysis and visualization](#proteomic data analysis and visualization)
+    - [Proteomic data analysis and visualization](#proteomic-data-analysis-and_visualization)
     - [ChIP-seq data analysis](#chIP-seq-data-analysis)
     - [Cell migration assays](#cell-migration-assays)
 
