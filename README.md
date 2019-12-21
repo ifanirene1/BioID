@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Project title](#BioID network propagation identified TWIST1-CHD8 module in cranial neural crest specification and ectomesenchymal potential)
+- [Project title](#BioID_network_propagation_identified_TWIST1-CHD8_module)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Results](#results)
