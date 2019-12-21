@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-- [Project title](#BioID_network_propagation_identified_TWIST1-CHD8_module)
+- [Project title](#BioID-network-propagation-identified-TWIST1-CHD8-module)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Results](#results)
-    - [Proteomic data analysis and visualization](#proteomic-data-analysis-and_visualization)
+    - [Proteomic data analysis and visualization](#proteomic-data-analysis-and-visualization)
     - [ChIP-seq data analysis](#chIP-seq-data-analysis)
     - [Cell migration assays](#cell-migration-assays)
 
