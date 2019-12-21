@@ -9,6 +9,9 @@
     - [Proteomic data analysis and visualization](#Proteomic data analysis and visualization)
     - [ChIP-seq data analysis](#ChIP-seq data analysis)
     - [Cell migration assays](#Cell migration assays)
+    - [Proteomic data analysis and visualization](#proteomic data analysis and visualization)
+    - [ChIP-seq data analysis](#chIP-seq-data-analysis)
+    - [Cell migration assays](#cell-migration-assays)
 
 ## Introduction
 
@@ -17,7 +20,7 @@ Using BioID-proximity-labelling approach and network propagation analysis, we id
 ## Results
 
 ### Proteomic data analysis and visualization
-* [Merged_bioID_Reanalysis.R](https://github.com/ifanirene1/BioID/blob/master/Merged_bioID_Reanalysis.R) 
+* [BioID analysis EdgeR](https://github.com/ifanirene1/BioID/blob/master/Merged_bioID_Reanalysis.R) 
 
 ### ChIP-seq data analysis
 
